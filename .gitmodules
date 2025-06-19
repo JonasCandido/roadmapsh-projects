@@ -1,0 +1,6 @@
+[submodule "roadmapsh-frontend-projects"]
+	path = roadmapsh-frontend-projects
+	url = https://github.com/JonasCandido/roadmapsh-frontend-projects
+[submodule "roadmapsh-backend-projects"]
+	path = roadmapsh-backend-projects
+	url = https://github.com/JonasCandido/roadmapsh-backend-projects
