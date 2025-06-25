@@ -18,3 +18,8 @@ git submodule update --init path/to/submodule
 ```
 
 After that, each README.md in each project of the stack-specific submodule will show you how to run the project
+
+Projects URLs:<br>
+
+Frontend:
+ - Single-Page CV: https://roadmap.sh/projects/single-page-cv
