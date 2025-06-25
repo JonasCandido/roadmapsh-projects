@@ -3,3 +3,14 @@ This repository contains submodules for each area of technology I'm interested i
 The projects come from roadmap.sh website:<br>
 https://roadmap.sh/
 
+## How to run the projects
+To initialize all the projects
+```
+git clone --recursive https://github.com/JonasCandido/roadmapsh-projects
+```
+
+To initialize stack-specific projects
+
+```
+git clone https://github.com/JonasCandido/roadmapsh-projects
+git submodule update --init path/to/submodule
