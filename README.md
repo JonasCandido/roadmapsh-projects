@@ -13,4 +13,8 @@ To initialize stack-specific projects
 
 ```
 git clone https://github.com/JonasCandido/roadmapsh-projects
+cd roadmapsh-projects
 git submodule update --init path/to/submodule
+```
+
+After that, each README.md in each project of the stack-specific submodule will show you how to run the project
